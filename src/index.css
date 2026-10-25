@@ -1,0 +1,52 @@
+/* CSS Dasar & Reset */
+:root {
+  --warna-utama: #1f6feb;
+  --warna-utama-gelap: #1550b8;
+  --warna-utama-muda: #e8f0fe;
+  --warna-aksen: #d97706;
+  --warna-teks: #1f2937;
+  --warna-teks-muted: #64748b;
+  --warna-latar: #f8fafc;
+  --warna-kartu: #ffffff;
+  --warna-border: #e2e8f0;
+
+  /* Badge kendaraan */
+  --warna-konvensional: #c2410c;
+  --warna-konvensional-bg: #fff7ed;
+  --warna-konvensional-border: #fdba74;
+  --warna-listrik: #059669;
+  --warna-listrik-bg: #ecfdf5;
+  --warna-listrik-border: #6ee7b7;
+
+  /* Status */
+  --warna-selesai: #15803d;
+  --warna-selesai-bg: #dcfce7;
+  --warna-jadwal: #b45309;
+  --warna-jadwal-bg: #fef3c7;
+
+  --font-utama: -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, "Helvetica Neue", Arial, sans-serif;
+  --radius-sm: 6px;
+  --radius-md: 10px;
+  --radius-lg: 14px;
+  --shadow-sm: 0 1px 2px 0 rgba(0, 0, 0, 0.05);
+  --shadow-md: 0 4px 6px -1px rgba(0, 0, 0, 0.07), 0 2px 4px -2px rgba(0, 0, 0, 0.05);
+  --shadow-lg: 0 10px 15px -3px rgba(0, 0, 0, 0.08), 0 4px 6px -4px rgba(0, 0, 0, 0.04);
+}
+
+*, *::before, *::after {
+  box-sizing: border-box;
+  margin: 0;
+  padding: 0;
+}
+
+body {
+  font-family: var(--font-utama);
+  background-color: var(--warna-latar);
+  color: var(--warna-teks);
+  line-height: 1.5;
+  -webkit-font-smoothing: antialiased;
+}
+
+button, input, select {
+  font-family: inherit;
+}

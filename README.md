@@ -49,8 +49,8 @@ Aplikasi web modern untuk manajemen booking jadwal dan riwayat servis motor (kon
 1. **Clone repositori**:
 
    ```bash
-   git clone https://github.com/Thbetyfu/TUGAS-PENGWEB-MULAI_WEEK-07.git
-   cd TUGAS-PENGWEB-MULAI_WEEK-07
+   git clone https://github.com/Thbetyfu/PENGWEB-MULAI-WEEK-7.git
+   cd PENGWEB-MULAI-WEEK-7
    ```
 2. **Instal dependensi**:
 

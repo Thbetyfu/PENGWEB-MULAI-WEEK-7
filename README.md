@@ -1,12 +1,13 @@
-
 ## Informasi Mahasiswa
 
 - **Nama:** Thoriq
 - **NIM:** 103022430006
 - **Mata Kuliah:** Perancangan dan Pemrograman Web (CCK3DAB3)
 - **Tugas:** Week 07 - Tugas 6 React Dasar
+- gambar nya ada di dalam  word tugas
 
 ---
+
 # Bengkelin - Frontend React (Vite)
 
 AI Usage:

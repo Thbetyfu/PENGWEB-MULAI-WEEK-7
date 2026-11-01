@@ -10,12 +10,6 @@
 
 # Bengkelin - Frontend React (Vite)
 
-AI Usage:
-
-Buat dokumen README, menggunakan gemini.com
-
-koding menggunakan VS code code complition
-
 Aplikasi web modern untuk manajemen booking jadwal dan riwayat servis motor (konvensional & motor listrik). Proyek ini merupakan kelanjutan dari proyek Bengkelin pada pekan-pekan sebelumnya yang kini ditransformasikan menjadi *Single Page Application* (SPA) berbasis **React** dan **Vite** untuk memenuhi penugasan **Tugas 6 (React Dasar)** pada mata kuliah **Perancangan dan Pemrograman Web (Week 07)**.
 
 ---

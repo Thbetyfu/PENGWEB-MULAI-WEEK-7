@@ -3,6 +3,7 @@ import Header from "./components/Header";
 import RingkasanStatistik from "./components/RingkasanStatistik";
 import FormTambahServis from "./components/FormTambahServis";
 import DaftarServis from "./components/DaftarServis";
+import ReferensiMotor from "./components/ReferensiMotor";
 import { dataServisAwal } from "./data/servisAwal";
 import "./App.css";
 
@@ -87,11 +88,14 @@ export default function App() {
             onToggleStatus={handleToggleStatus}
             onResetSampel={handleResetSampel}
           />
+
+          {/* Komponen 6: Referensi Model Motor (data dari API eksternal, Tugas 7) */}
+          <ReferensiMotor />
         </div>
       </main>
 
       <footer className="app-footer">
-        <p>Bengkelin &copy; 2026 - Dikembangkan oleh Thoriq (NIM: 103022430006) | Tugas 6 React Dasar</p>
+        <p>Bengkelin &copy; Dikembangkan oleh Thoriq (NIM: 103022430006)</p>
       </footer>
     </div>
   );
